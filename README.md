@@ -11,15 +11,16 @@ Criado como parte do projeto do BootCamp Santander2024 Fundamentos de IA para De
 - Software **[Capcut](https://www.capcut.com/)** para edição de áudio.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A edição de áudio foi realizada no CapCut para garantir qualidade profissional.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
 [LINK PARA O VÍDEO AQUI]()
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para falar sobre um tema essencial que é a Educação Financeira, de uma forma  poderosa e cativante!
 
+Contribuição:
 @dio
 @falvojr
