@@ -16,7 +16,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/ofabiosoares/lab-natty-or-not/tree/main/exemplos)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para falar sobre um tema essencial que é a Educação Financeira, de uma forma  poderosa e cativante!
